@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksecurity_playbook=self.webpackChunksecurity_playbook||[]).push([[694],{5284:function(l){l.exports=JSON.parse('{"allTagsPath":"/security-playbook/blog/tags","slug":"/security-playbook/blog/tags/hello","name":"hello","count":2,"permalink":"/security-playbook/blog/tags/hello"}')}}]);

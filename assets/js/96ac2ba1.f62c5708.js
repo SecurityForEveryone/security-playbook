@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksecurity_playbook=self.webpackChunksecurity_playbook||[]).push([[323],{9969:function(s){s.exports=JSON.parse('{"allTagsPath":"/security-playbook/blog/tags","slug":"/security-playbook/blog/tags/docusaurus","name":"docusaurus","count":4,"permalink":"/security-playbook/blog/tags/docusaurus"}')}}]);
